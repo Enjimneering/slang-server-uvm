@@ -7,3 +7,6 @@
 [submodule "external/ctre"]
 	path = external/ctre
 	url = https://github.com/hanickadot/compile-time-regular-expressions.git
+[submodule "tests/data/uvm_support/uvm"]
+	path = tests/data/uvm_support/uvm
+	url = https://github.com/jrudess/uvm-slang.git
